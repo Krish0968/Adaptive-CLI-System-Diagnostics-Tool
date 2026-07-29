@@ -20,6 +20,19 @@ A simple Python Command Line Interface (CLI) project that displays basic system 
 - Python 3.x
 - psutil
 
+# Adaptive CLI System Diagnostics Tool
+
+## Screenshots
+
+### Image 1
+![System Information](screenshots/1st.png)
+
+### Image 2
+![CPU Usage](screenshots/2nd.png)
+
+### Image 3
+![RAM Information](screenshots/3rd.png)
+
 ## Install
 
 ```bash
