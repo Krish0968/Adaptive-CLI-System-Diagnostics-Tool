@@ -1,3 +1,6 @@
+#NAME: KRISH MATHUR
+#REGISTRATION NO.: 24BCE10068
+
 # Adaptive CLI System Diagnostics Tool
 
 A simple Python Command Line Interface (CLI) project that displays basic system information.
