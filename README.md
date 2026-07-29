@@ -1,7 +1,7 @@
-## NAME:
-KRISH MATHUR
+## Name
+Krish Mathur
 
-## REGISTRATION NO.: 
+## Registration no.
 24BCE10068
 
 # Adaptive CLI System Diagnostics Tool
